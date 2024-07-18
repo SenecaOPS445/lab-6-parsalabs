@@ -1,1 +1,1 @@
-bash: ./CheckLab6.py: Permission denied
+sudo: ./CheckLab6.py: command not found
