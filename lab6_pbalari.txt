@@ -1,0 +1,1 @@
+bash: ./CheckLab6.py: Permission denied
